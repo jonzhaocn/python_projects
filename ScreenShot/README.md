@@ -1,4 +1,4 @@
 # ScreenShot
 
-功能展示
+鍔熻兘灞曠ず
 ![1.gif](https://github.com/SurpriseH/python_projects/blob/master/ScreenShot/img/1.gif)
