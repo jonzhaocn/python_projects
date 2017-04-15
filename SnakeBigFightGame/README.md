@@ -10,3 +10,5 @@
 通过吃食物，贪吃蛇会边长
 ![3.png](https://github.com/SurpriseH/python_projects/blob/master/SnakeBigFightGame/readme_img/3.png)
 
+功能展示：
+![4.gif](https://github.com/SurpriseH/python_projects/blob/master/SnakeBigFightGame/readme_img/4.gif)
